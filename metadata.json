@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Transaction Risk & Fraud-Chain Detection System",
+  "description": "Banking-oriented fraud detection, money-flow graph analysis, transaction-level isolation, and innocent downstream recipient protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
